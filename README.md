@@ -17,7 +17,7 @@ As principais bibliotecas utilizadas no desenvolvimento da análise foram:
 * **[NetworkX](https://networkx.org/)**: Criação, manipulação e análise da estrutura dos grafos.
 * **[Pandas](https://pandas.pydata.org/)**: Manipulação e limpeza dos dados tabulares.
 * **[python-louvain](https://github.com/taynaud/python-louvain)**: Algoritmo de detecção de comunidades.
-* **[Matplotlib](https://matplotlib.org/) / [Seaborn](https://seaborn.pydata.org/)**: Visualização de dados e das redes.
+* **[Gephi](https://gephi.org/)**: Visualização avançada e exploração interativa da rede.
 
 ---
 
